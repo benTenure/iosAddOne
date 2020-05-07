@@ -2,6 +2,8 @@
 
 A very simple project to learn about and use both Swift and XCode. Serves as a good introduction to some of Apple's frameworks as well.
 
+[Link](https://learnappmaking.com/creating-a-simple-ios-game-with-swift-in-xcode/#building-the-ui-in-interface-builder) to the tutorial I used (Art assets provided here as well)
+
 ## Postmortem
 - It seems like a lot of the functionality for UIViewController follows simliar rules to how Unity GameObjects work
 - The management of IBOutlets and IBActions feel very natural coming from Unity. (Love the drag and drop)

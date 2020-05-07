@@ -1,4 +1,4 @@
-# iosAddOne
+# iOS AddOne
 
 A very simple project to learn about and use both Swift and XCode. Serves as a good introduction to some of Apple's frameworks as well.
 
